@@ -1,3 +1,4 @@
+![Welcome Banner](https://i.pinimg.com/originals/c7/9e/54/c79e5424f24310a04f388c0b19a7cdae.png)
 # 👋 Hi, I'm Grace Akinyi
 **Frontend Developer | React | JavaScript | AWS Cloud Practitioner**
 
