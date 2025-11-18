@@ -42,7 +42,7 @@ Full CRUD system for managing salon services, bookings, and clients.
 ## 📫 Contact Me
 - Email: [graceakinyi024@gmail.com](mailto:graceakinyi024@gmail.com)  
 - LinkedIn: [Grace Odongo](https://www.linkedin.com/in/grace-odongo-3ab3b51b5)  
-- Portfolio: 
+- Portfolio: (https://portfolio-omega-ten-nescy8c9tg.vercel.app/)
 
 ---
 
